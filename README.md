@@ -114,11 +114,3 @@ streamlit run dashboard/dashboard.py
 
 ---
 
-## 👤 Author
-
-**[Your Name]**  
-Data Analyst | Python • SQL • Power BI • Machine Learning  
-📧 your.email@gmail.com | 🔗 linkedin.com/in/yourprofile
-
----
-*Synthetic dataset generated for portfolio demonstration.*
